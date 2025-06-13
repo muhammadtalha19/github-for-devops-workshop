@@ -5,3 +5,4 @@
 14 git remote -v
 15 rm gitcommands.txt
 16 git restore gitcommands.txt
+17 i am pulling from github
