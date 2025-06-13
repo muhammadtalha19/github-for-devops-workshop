@@ -1,0 +1,7 @@
+10 history
+11 git add gitcommands.txt
+12 git commit -m "one more file"
+13 git push origin master
+14 git remote -v
+15 rm gitcommands.txt
+16 git restore gitcommands.txt
